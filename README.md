@@ -2,11 +2,13 @@
 #### Web developer
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills:  HTML / CSS
+Skills:  Basic in HTML, CSS & Java-Script.
+Programing language: Python, Fram-work: Django 
+Database: Oracle 19c
 
-- 🔭 I’m currently working on Html and Css. 
-- 🌱 I’m currently learning Html and Css. 
-- 👯 I’m looking to collaborate on Github 
+- 🔭 I’m currently working on Python and Django. 
+- 🌱 I’m currently learning Django. 
+- 👯 I’m looking to collaborate on GitHub. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arifhosssen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arifhosssen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/arifhosssen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arifhosssen_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ariifhossen)  
