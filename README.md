@@ -6,7 +6,7 @@ Skills:  Basic in HTML, CSS & Java-Script.
 Programing language: Python, Fram-work: Django 
 Database: Oracle 19c
 
-- 🔭 I’m currently working on Python and Django. 
+- 🔭 I’m currently working on Python, Django, Git, and PostgreSQL. 
 - 🌱 I’m currently learning Django. 
 - 👯 I’m looking to collaborate on GitHub. 
 
